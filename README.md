@@ -1,6 +1,6 @@
 Скопіювати проект:
 
-git clone https://github.com/o83854594/olx.git
+git clone https://github.com/o83854594/olx-tracker.git
 
 
 Створити файл змінних оточення:
